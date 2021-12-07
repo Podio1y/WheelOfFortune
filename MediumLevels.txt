@@ -1,0 +1,24 @@
+rolling stones  Classic Rock Bands
+black sabbath  Classic Rock Bands
+ queen  Classic Rock Bands
+the dark knight Popular Movies
+bilbo baggins  Famous Movie Characters
+komodo dragon  Animals
+golden eagle  Animal
+white dwarf  Astronomy
+ red giant Astronomy
+ andromeda  Astronomy
+wolfgang amadeus mozart Classical Composers
+johann sebastian bach Classical Composers
+ronald reagan  American Presidents
+richard nixon  American Presidents
+theodore roosevelt  American Presidents
+golden gate bridge Landmarks
+the white house Landmarks
+the grand canyon Landmarks
+los angeles lakers Sports Teams
+real madrid  Sports Teams
+ bayern munich Sports Teams
+new york giants Sports Teams
+new england patriots Sports Teams
+ iceland  Countries

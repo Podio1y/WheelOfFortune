@@ -1,0 +1,82 @@
+rolling stones  Classic Rock Bands
+ pink floyd Classic Rock Bands
+ led zeppelin Classic Rock Bands
+black sabbath  Classic Rock Bands
+beatles   Classic Rock Bands
+ grateful dead Classic Rock Bands
+ deep purple Classic Rock Bands
+ queen Classic Rock Bands
+
+the dark knight Popular Movies
+the breakfast club Movies
+my cousin vinny Movies
+casino royale  Movies
+crazy rich asians Movies
+
+james bond  Famous Movie Characters
+ harry potter Famous Movie Characters
+bilbo baggins  Famous Movie Characters
+
+ blue whale Animals
+komodo dragon  Animals
+polar bear  Animals
+golden lion tamarin Animals
+golden eagle  Animal
+poison dart frog Animal
+ bumble bee Animal
+ moose  Animal
+
+white dwarf  Astronomy
+black hole  Astronomy
+ halleys comet Astronomy
+ red giant Astronomy
+milky way  Astronomy
+ andromeda Astronomy
+the big bang Astronomy
+
+wolfgang amadeus mozart Classical Composers
+ frederic chopin Classical Composers
+johann sebastian bach Classical Composers
+igor stravinsky  Classical Composers
+claude debussy  Classical Composers
+
+
+ronald reagan  American Presidents
+ donald trump American Presidents
+richard nixon  American Presidents
+ barack obama American Presidents
+abraham lincoln  American Presidents
+theodore roosevelt  American Presidents
+
+golden gate bridge Landmarks
+pyramid of giza Landmarks
+ kremlin  Landmarks
+eiffel tower  Landmarks
+statue of liberty Landmarks
+ niagara falls Landmarks
+mount everest  Landmarks
+the white house Landmarks
+ louvre museum Landmarks
+the grand canyon Landmarks
+
+toronto maple leafs Sports Teams
+los angeles lakers Sports Teams
+real madrid  Sports Teams
+ bayern munich Sports Teams
+new york giants Sports Teams
+boston red sox Sports Teams
+calgary flames  Sports Teams
+ milwaukee brewers Sports Teams
+new england patriots Sports Teams
+ cleveland browns Sports Teams
+
+ canada  Countries
+ russia  Countries
+czech republic  Countries
+ iceland  Countries
+new zealand  Countries
+ north korea  Countries
+papua new guinea Countries
+saudi arabia  Countries
+ south africa Countries
+ zimbabwe  Countries
