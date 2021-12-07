@@ -1,2 +1,2 @@
 # WheelOfFortune
-NOTE: This was coded in the Ready to Program Java IDE. It is for learning, and it will absolutely NOT run in any other Java IDE. Although some of the code is slightly different compared to normal Java, it is still something I'm proud of as it was my first major project.
+My first major project. This will only run in Ready to Program Java IDE, an IDE for learning Java. I'd like to revamp this and reprogram it for regular Java if I get the chance.
